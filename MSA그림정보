@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T14:17:20.961Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="IVlWCQre-3_fXEl07nH1" version="16.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-21T14:20:59.775Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="msrF9mx3ZbsGvpywCH1I" version="16.6.1" type="github" pages="2">
   <diagram id="bfVfDaH5qqsSjP8cWKM1" name="Message Queue">
     <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -284,10 +284,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-2" id="QXc916MN-v_yH-dW3rgE">
-    <mxGraphModel dx="2253" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2061" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Kp5CfpB9-K-c_ueXVVi2-0" />
         <mxCell id="Kp5CfpB9-K-c_ueXVVi2-1" parent="Kp5CfpB9-K-c_ueXVVi2-0" />
+        <mxCell id="mbGalEYpxxClFyJ607CA-122" value="그림설명" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;strokeColor=#67AB9F;strokeWidth=3;fillColor=default;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="Kp5CfpB9-K-c_ueXVVi2-1">
+          <mxGeometry x="667.5" y="55" width="282.5" height="165" as="geometry" />
+        </mxCell>
         <mxCell id="mbGalEYpxxClFyJ607CA-93" value="Partition&lt;br&gt;(동접가능수)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeColor=default;strokeWidth=3;fillColor=default;dashed=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="Kp5CfpB9-K-c_ueXVVi2-1">
           <mxGeometry x="650" y="320" width="120" height="200" as="geometry" />
         </mxCell>
@@ -376,6 +379,9 @@
         </mxCell>
         <mxCell id="mbGalEYpxxClFyJ607CA-35" value="" style="group" vertex="1" connectable="0" parent="mbGalEYpxxClFyJ607CA-43">
           <mxGeometry x="15" y="30" width="90" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="mbGalEYpxxClFyJ607CA-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="mbGalEYpxxClFyJ607CA-35" source="Dws9RLeHwzrMrgcB45T7-56" target="mbGalEYpxxClFyJ607CA-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dws9RLeHwzrMrgcB45T7-56" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="mbGalEYpxxClFyJ607CA-35">
           <mxGeometry x="10" y="50" width="70" height="90" as="geometry" />
@@ -525,6 +531,12 @@
             <mxPoint x="480" y="280" as="sourcePoint" />
             <mxPoint x="363.1999999999998" y="395.29999999999995" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mbGalEYpxxClFyJ607CA-119" value="zookeeper" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.patch_panel;fontSize=13;" vertex="1" parent="Kp5CfpB9-K-c_ueXVVi2-1">
+          <mxGeometry x="810" y="117.5" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="mbGalEYpxxClFyJ607CA-121" value="Kafka 서버" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="Kp5CfpB9-K-c_ueXVVi2-1">
+          <mxGeometry x="692.5" y="90" width="70" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
