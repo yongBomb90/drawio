@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T13:41:11.187Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="wVuJCQEJ3FzvyrVxORKL" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T12:30:15.194Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="Rsy7R_yPV7hfgl3xb4F0" version="16.6.4" type="github" pages="2">
   <diagram id="bfVfDaH5qqsSjP8cWKM1" name="Message Queue">
-    <mxGraphModel dx="1234" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -700,6 +700,14 @@
         <mxCell id="pML4QZZpUeNpjz4uGIXL-3" value="&lt;meta charset=&quot;utf-8&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;p style=&quot;font-size: 13px;&quot;&gt;*Poll : 컨슈머의 메시지 요청&lt;br style=&quot;font-size: 13px;&quot;&gt;*max.poll.interval.ms : Poll요청이 한번이상 반드시 있어야하는 기간 해당 기간내 요청이 없으면 죽은 Consumer 로 판단.&lt;br style=&quot;font-size: 13px;&quot;&gt;*heartbeat.interval.ms : 컨슈머가 살아있다고 보내는 HeartBeat 전송 시간범위 해당 기간은 session.timeout.ms 의 30%이하로 설정&lt;br style=&quot;font-size: 13px;&quot;&gt;*session.timeout.ms : 컨슈머의 HeatBeat가 반드시 한번이상 도착해야 하는 기간이다. 해당 기간내 도착하지 않으면 죽은걸로 간주한다.&lt;/p&gt;&lt;p style=&quot;font-size: 13px;&quot;&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#000000;fontSize=13;" parent="pML4QZZpUeNpjz4uGIXL-1" vertex="1">
           <mxGeometry y="290" width="710" height="140" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RGRLgYXp72ft5EG8RVgR" name="Config serer">
+    <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ShpXHApzsvSN1wfxutZE-0" />
+        <mxCell id="ShpXHApzsvSN1wfxutZE-1" parent="ShpXHApzsvSN1wfxutZE-0" />
       </root>
     </mxGraphModel>
   </diagram>
