@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T12:30:49.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="LqOqTakZSXlSf15cOapl" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-02T14:14:17.678Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="6ThvTOlICMr251MVKc6G" version="16.6.4" type="github" pages="2">
   <diagram id="bfVfDaH5qqsSjP8cWKM1" name="Message Queue">
-    <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1234" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -704,13 +704,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RGRLgYXp72ft5EG8RVgR" name="Config serer">
-    <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1234" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ShpXHApzsvSN1wfxutZE-0" />
         <mxCell id="ShpXHApzsvSN1wfxutZE-1" parent="ShpXHApzsvSN1wfxutZE-0" />
-        <mxCell id="ShpXHApzsvSN1wfxutZE-2" value="Config Serer&lt;br&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="ShpXHApzsvSN1wfxutZE-1">
-          <mxGeometry x="290" y="180" width="90" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
